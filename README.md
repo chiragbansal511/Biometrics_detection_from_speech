@@ -49,6 +49,10 @@ The **ECAPA-TDNN** model improves upon standard TDNN-based speaker verification 
 
 <img width="1024" height="942" alt="image" src="https://github.com/user-attachments/assets/21676771-6a28-400f-a319-97acf3d9fd2b" />
 
+## Results 
+
+<img width="705" height="393" alt="image" src="https://github.com/user-attachments/assets/00c1681d-6168-41dd-80da-9bb55311d780" />
+
 
 ## Requirements
 
